@@ -177,7 +177,7 @@ figure {
 
 @media screen and (max-width: 768px) {
   .fh5co-cover {
-    heifght: inherit;
+    height: inherit;
     padding: 3em 0;
   }
 }
@@ -404,7 +404,7 @@ figure {
 #fh5co-primary-menu > li > .sf-with-ul:after {
   border: none !important;
   font-family: 'icomoon';
-  speak: none;
+  
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -430,7 +430,6 @@ figure {
 #fh5co-primary-menu > li > ul li > .sf-with-ul:after {
   border: none !important;
   font-family: 'icomoon';
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
